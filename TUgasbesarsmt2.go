@@ -1,5 +1,7 @@
 package main
 
+// menambahkan komentar oleh fjarrrmdhan
+
 import (
 	"fmt"
 	"time"
